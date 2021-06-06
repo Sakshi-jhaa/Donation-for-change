@@ -72,7 +72,7 @@ DATABASES = {
         'NAME': 'dcc',
         'USER':'postgres',
         'PASSWORD':'$akshijh@1234',
-        'HOST':'localhost',
+        'HOST':'makedonations1.herokuapp.com/donate',
         'PORT':'5432'
     }
 }
