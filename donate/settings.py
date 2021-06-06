@@ -72,7 +72,8 @@ DATABASES = {
         'NAME': 'dcc',
         'USER':'postgres',
         'PASSWORD':'$akshijh@1234',
-        'HOST':'localhost'
+        'HOST':'localhost',
+        'PORT':'5432'
     }
 }
 
